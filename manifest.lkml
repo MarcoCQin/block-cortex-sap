@@ -4,7 +4,7 @@ constant: CONNECTION_NAME {
 }
 
 constant: GCP_PROJECT {
-  value: "qin-cortex-demo-test"
+  value: "qin-cortex-demo-temp"
   export: override_required
 }
 
