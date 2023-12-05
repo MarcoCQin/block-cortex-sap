@@ -1,10 +1,10 @@
 constant: CONNECTION_NAME {
-  value: "cortex-sap"
+  value: "looker-bq-sap"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "qin-cortex-demo-temp3"
+  value: "qin-cortex-demo-temp4"
   export: override_required
 }
 
